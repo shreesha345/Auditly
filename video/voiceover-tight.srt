@@ -1,0 +1,135 @@
+1
+00:00:00,250 --> 00:00:03,583
+[Shreesha] Meet Auditly. It keeps public money honest.
+
+2
+00:00:03,833 --> 00:00:09,000
+[Shreesha] After a contract is signed, costs go up and new companies quietly join.
+
+3
+00:00:09,167 --> 00:00:11,000
+[Shreesha] And no one checks the proof.
+
+4
+00:00:11,250 --> 00:00:15,967
+[Shreesha] Officials lose track of what changed. Small firms can't find work that fits them.
+
+5
+00:00:16,067 --> 00:00:19,567
+[Shreesha] Auditly fixes both, using four smart AI tools.
+
+6
+00:00:19,734 --> 00:00:26,484
+[Shreesha] It reads public contract records, spots changes, finds matching jobs, and shows it all in one place.
+
+7
+00:00:26,734 --> 00:00:28,400
+[Pranav] Tool one: Change Detector.
+
+8
+00:00:28,400 --> 00:00:31,767
+[Pranav] It compares the signed contract with what really happened.
+
+9
+00:00:31,767 --> 00:00:33,767
+[Pranav] Here, it found five changes.
+
+10
+00:00:33,850 --> 00:00:36,100
+[Pranav] Tool two: Evidence Linker.
+
+11
+00:00:36,183 --> 00:00:38,667
+[Pranav] It looks for the proof behind each change.
+
+12
+00:00:38,667 --> 00:00:41,083
+[Pranav] No proof was found, so this change is flagged.
+
+13
+00:00:41,417 --> 00:00:45,167
+[Pranav] Tool three gives each contract a score, showing where to look first.
+
+14
+00:00:45,217 --> 00:00:47,600
+[Pranav] And it explains why, in simple words.
+
+15
+00:00:47,783 --> 00:00:51,933
+[Jnandeep] It also connects the people and companies behind each contract.
+
+16
+00:00:51,933 --> 00:00:54,883
+[Jnandeep] Here, the same person runs both companies.
+
+17
+00:00:55,133 --> 00:00:57,716
+[Jnandeep] Officials get a clear dashboard,
+
+18
+00:00:57,966 --> 00:01:00,466
+[Jnandeep] a list of what to check first,
+
+19
+00:01:00,716 --> 00:01:03,300
+[Jnandeep] the full story of every contract,
+
+20
+00:01:03,466 --> 00:01:05,550
+[Jnandeep] and alerts for every change.
+
+21
+00:01:05,883 --> 00:01:08,633
+[Jnandeep] Tool four helps contractors find work.
+
+22
+00:01:08,800 --> 00:01:12,267
+[Jnandeep] It matches each company to the jobs it can win,
+
+23
+00:01:12,267 --> 00:01:14,267
+[Jnandeep] and shows how to fix what's missing.
+
+24
+00:01:14,400 --> 00:01:16,566
+[Akash] Companies see their best matches,
+
+25
+00:01:16,816 --> 00:01:18,983
+[Akash] a ranked list of jobs,
+
+26
+00:01:19,233 --> 00:01:21,400
+[Akash] what each job needs,
+
+27
+00:01:21,566 --> 00:01:23,483
+[Akash] and their own profile.
+
+28
+00:01:23,733 --> 00:01:26,650
+[Akash] It's built for officials and businesses alike.
+
+29
+00:01:26,816 --> 00:01:28,900
+[Akash] Governments pay to use it,
+
+30
+00:01:28,900 --> 00:01:31,134
+[Akash] and companies search for free.
+
+31
+00:01:31,467 --> 00:01:36,400
+[Akash] We start with finding changes, then scores, then job matching, then a real state trial.
+
+32
+00:01:36,500 --> 00:01:39,633
+[Akash] It's built with trusted, open tools.
+
+33
+00:01:40,533 --> 00:01:42,367
+[Akash] Follow every rupee of public money.
+
+34
+00:01:42,367 --> 00:01:43,933
+[All] We are Team Auditly.

@@ -1,0 +1,24 @@
+{
+  "name": "auditly-launch-video",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render AuditlyLaunch out/auditly-launch.mp4",
+    "render:face": "remotion render AuditlyLaunchWithFace out/auditly-launch-face.mp4",
+    "still": "remotion still AuditlyLaunch out/thumbnail.png --frame=120"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.524",
+    "@remotion/google-fonts": "4.0.524",
+    "@remotion/transitions": "4.0.524",
+    "lucide-react": "^1.45.0",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "remotion": "4.0.524"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "typescript": "^5"
+  }
+}
